@@ -1,0 +1,18 @@
+H:\WebAndConsoleApps\FinalProject\FinalProject\bin\FinalProject.dll.config
+H:\WebAndConsoleApps\FinalProject\FinalProject\bin\FinalProject.dll
+H:\WebAndConsoleApps\FinalProject\FinalProject\bin\FinalProject.pdb
+H:\WebAndConsoleApps\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+H:\WebAndConsoleApps\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+H:\WebAndConsoleApps\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\bin\FinalProject.dll.config
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\bin\FinalProject.dll
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\bin\FinalProject.pdb
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\obj\Debug\FinalProject.dll
+H:\WebAndConsoleApps\Project_IT485\FinalProject -1\FinalProject\obj\Debug\FinalProject.pdb
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\bin\FinalProject.dll.config
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\bin\FinalProject.dll
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\bin\FinalProject.pdb
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\obj\Debug\FinalProject.dll
+H:\WebAndConsoleApps\Project_IT485\FinalProject-Integrated\FinalProject\obj\Debug\FinalProject.pdb
